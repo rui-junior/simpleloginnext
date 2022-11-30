@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .message{
 
     display: flex;
@@ -8,15 +7,4 @@
 
     margin: 15px 0px;
 
-=======
-.message{
-
-    display: flex;
-    justify-content: center;
-    letter-spacing: 1px;
-    font-size: 0.75rem;
-
-    margin: 15px 0px;
-
->>>>>>> 51c1631c6f2e0388955155cbc6a872c29f415365
 }

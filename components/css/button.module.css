@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .register {
 
     display: inline-block;
@@ -19,4 +20,27 @@
 
 .register:hover {
     transform: translateY(-2px);
+=======
+.register {
+
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background: #000000;
+    color: #FFFFFF;
+    border-radius: 8px;
+    margin: 5px 0px;
+    padding: 14px 24px 16px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    transition: transform 200ms, background 200ms;
+
+
+}
+
+.register:hover {
+    transform: translateY(-2px);
+>>>>>>> 51c1631c6f2e0388955155cbc6a872c29f415365
 }
